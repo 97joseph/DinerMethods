@@ -7,7 +7,7 @@ public class Diner {
     //:::::::::::::Required for Task 1
     static Diner [] allTheDiners;
 
-    // Takes in names of the Diners and adds them to "allTheDiners" array
+    // Takes in names of the Diners and adds the to "allTheDiners" array
     static void createPartyFor(String [] peoplesNames) {
 
         Diner [] allTheDiners = new Diner[peoplesNames.length];

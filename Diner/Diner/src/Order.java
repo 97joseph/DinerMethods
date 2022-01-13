@@ -34,8 +34,7 @@ public class Order {
   }
 
   public String toString() {
-     //I haven't taught you this and you don't need to understand it
-     //to use the method.  Don't change it
+    
      return String.format("%-10s%6.2f",menuItem,itemsPriceInPence/100.0);
   }
 

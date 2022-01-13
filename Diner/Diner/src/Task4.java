@@ -9,5 +9,6 @@ public class Task4 {
       Diner.dealWithTheBill();
   }
 
+//Methods
 
 }
