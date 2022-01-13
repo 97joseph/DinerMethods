@@ -1,0 +1,2 @@
+# DinerMethods
+ Simple method calls
