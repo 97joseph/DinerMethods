@@ -4,7 +4,7 @@ import sheffield.*;
 
 /**
  *
- * @author AsimM
+ 
  */
 public class Diner {
 
